@@ -38,5 +38,5 @@ VR 아케이드 게임
 ![image](https://user-images.githubusercontent.com/38156821/43884708-cb236624-9bf1-11e8-9df9-449f58939b67.png)
 
 # 데모
-    https://youtu.be/dK3sWl-11uk
-    https://youtu.be/qk9ZVj4QDl8
+게임충돌: https://youtu.be/dK3sWl-11uk 
+<br>게임클리어: https://youtu.be/qk9ZVj4QDl8 
